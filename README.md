@@ -1,6 +1,7 @@
 ## Email Application
 
-This is a practice to solve the following scenario: You are an IT support administrator specialist and are charged 
+This is a practice to solve the following scenario: 
+You are an IT support administrator specialist and are charged 
 with the task of creating email acccounts for new hires.
 
 The application should do the following:
